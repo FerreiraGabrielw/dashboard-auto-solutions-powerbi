@@ -18,9 +18,19 @@ Este projeto consiste na criação de um Dashboard em **Power BI** para oferecer
 
 ## Conteúdo do Repositório
 
+## Conteúdo do Repositório
+
+* `data/`: Bases de dados (CSV/Excel) utilizadas.
+* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
+* `figma/`: Arquivos ou screenshots relacionados ao protótipo e design no Figma.
+* 
+* `README.md`: Este documento.
+* `LICENSE`: Licença do projeto (MIT License).
+
 * `dados`: Bases de dados (CSV) utilizada.
 * `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
 * `figma/`: Arquivos relacionados ao protótipo e design no Figma.
+* `quarto/`: Arquivo `.qmd` e sua versão HTML renderizada.
 * `README.md`: Este documento.
 * `LICENSE`: Licença do projeto (MIT License).
 
