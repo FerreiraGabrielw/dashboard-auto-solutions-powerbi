@@ -1,36 +1,36 @@
-# Projeto: Dashboard Auto Solutions - Análise de Performance de Vendas e Lucratividade
+# Project: Auto Solutions Dashboard - Sales Performance and Profitability Analysis
 
 ![Thumbnail do Dashboard](powerbi/capa.png)
 
-### ➡️ Análise Detalhada e Dashboard Interativo no Meu Portfólio:
-[Acesse a página completa do projeto aqui](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/2DashboardAutoSolutions/Projeto2DA.html)
+### ➡️ Detailed Analysis and Interactive Dashboard in My Portfolio:
+[Access the full project page here](https://ferreiragabrielw.github.io/portfolio-gabriel/projetos/Dashboards/2DashboardAutoSolutions/Projeto2DA.html)
 
 ---
 
-## Sobre o Projeto
+## About the Project
 
-Este projeto consiste na criação de um Dashboard em **Power BI** para oferecer uma visão abrangente sobre a performance de vendas, custos e lucratividade no setor automotivo. A solução foi concebida para auxiliar gestores a monitorar os principais indicadores financeiros e operacionais por produto, data, segmento e geografia, otimizando estratégias comerciais e de produção.
+This project consists of creating a Dashboard in **Power BI** to offer a comprehensive view of sales performance, costs, and profitability in the automotive sector. The solution was designed to help managers monitor key financial and operational indicators by product, date, segment, and geography, optimizing commercial and production strategies.
 
-## Tecnologias e Processo
+## Technologies and Process
 
-* **Ferramentas**: Power BI Desktop, Figma (prototipação e design), Microsoft Excel / CSV (fontes de dados).
-* **ETL**: Dados extraídos de `.csv` e transformados no Power Query (M) e modelados para análise.
+* **Tools**: Power BI Desktop, Figma (prototyping and design), Microsoft Excel / CSV (data sources).
+* **ETL**: Data extracted from `.csv` and transformed in Power Query (M) and modeled for analysis.
 
-## Conteúdo do Repositório
-* `dados`: Bases de dados (CSV) utilizada.
-* `powerbi/`: Arquivo `.pbix` do dashboard Power BI.
-* `figma/`: Arquivos relacionados ao protótipo e design no Figma.
-* `quarto/`: Arquivo `.qmd` e sua versão HTML renderizada.
-* `README.md`: Este documento.
-* `LICENSE`: Licença do projeto (MIT License).
+## Repository Content
+* `dados`: Used database (CSV).
+* `powerbi/`: Power BI dashboard `.pbix` file.
+* `figma/`: Files related to the prototype and design in Figma.
+* `quarto/`: `.qmd` file and its rendered HTML version.
+* `README.md`: This document.
+* `LICENSE`: Project license (MIT License).
 
-## Como Visualizar
+## How to View
 
-* **Online**: [Acesse o dashboard publicado no Power BI Service](https://app.powerbi.com/groups/me/reports/3fd60242-5e84-4e13-a6e4-8c12c5b021cc/ReportSection?experience=power-bi)
-* **Localmente**: Faça o download do arquivo `.pbix` na pasta `powerbi/` e abra-o com o Power BI Desktop.
+* **Online**: [Access the published dashboard on Power BI Service](https://app.powerbi.com/groups/me/reports/3fd60242-5e84-4e13-a6e4-8c12c5b021cc/ReportSection?experience=power-bi)
+* **Locally**: Download the `.pbix` file from the `powerbi/` folder and open it with Power BI Desktop.
 
 ---
 
-### Licença
+### License
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
